@@ -1,0 +1,32 @@
+{
+  "firstName": "Neven",
+  "familyName": "Falica",
+  "primaryEmail": "nfalica@gmail.com",
+  "gender": "male",
+  "dateOfBirth": "1979-04-28",
+  "nationality": "Croatian",
+  "contact": [
+    {
+      "type": "email",
+      "address": "nfalica@gmail.com"
+    },
+    {
+      "type": "email",
+      "address": "neven@falica.net"
+    },
+    {
+      "type": "phone",
+      "address": "+385-91-4847-633"
+    },
+    {
+      "type": "skype",
+      "address": "nfalica"
+    },
+    {
+      "type": "twitter",
+      "address": "@elkarrde"
+    }
+  ],
+  "workExperience": "See work_experience.json file.",
+  "revision": "1.0"
+}

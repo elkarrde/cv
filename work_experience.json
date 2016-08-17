@@ -1,0 +1,29 @@
+{
+  "workExperience": [
+    {
+      "position": "Web developer",
+      "location": {
+        "name": "Falica.net",
+        "type": "Privately-owned project",
+        "address": "Jastrebarsko, Croatia",
+        "url": "http://falica.net"
+      },
+      "dateRange": [
+        {
+          "from": "2001-04",
+          "to": "now"
+        }
+      ],
+      "responsibilities": [
+        "design, deployment and configuration of web platform",
+        "social-networks media coverage",
+        "events coverage"
+      ],
+      "areasOfWork": [
+        "design",
+        "implementation",
+        "IT"
+      ]
+    }
+  ]
+}
